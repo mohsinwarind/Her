@@ -1,1 +1,2 @@
 # Her
+Her is my personal Operating System project I will be working on for my Final Year Project and it's inspired by the movie "Her" where the protagnist was suffering from lonlineless and fall in love with his subjective-aware OS .
